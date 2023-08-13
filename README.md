@@ -6,12 +6,13 @@ fazer algo bássico
 
 Para utilizar a biblioteca é bem simples
 
+     Baixe o arquivo .zip através do link: "https://github.com/abacaxin/Comp.git" ;
+     Abra a Arduno IDE;
+     Na barra superior de menu, vá para sketch -> Incluir biblioteca -> Incluir biblioteca .zip;
+     Selecione o arquivo que você baixou e clique em "OK" ou "abrir".
+
+
 1-Passo:
-Instalar a biblioteca
-O download pode ser feito através do link:  
-
-
-2-Passo:
 Incluir a biblioteca no seu código 
 Para incluir uma biblioteca no arduino utilizamos o comando "#include" e a seguir o nome da 
 biblioteca desejada
@@ -21,7 +22,7 @@ Ex:
 #include <Comp.h>
 ```
 
-3-Passo:
+2-Passo:
 Declarar o meu componente, se eu estou querendo controlar um led por exemplo, eu chamo a classe 
 'Comp', nomeio de acordo com a minha preferência e logo após eu declaro em qual porta este 
 componente esta.
