@@ -2,7 +2,7 @@
 
 Esta biblioteca foi desenvolvida para que se possa ter um simple controle de portas digitais
 Como o meu intuito era por em prática os conhecimentos sobre criação de bibliotecas decidi 
-fazer algo bássico
+fazer algo básico
 
 Para utilizar a biblioteca é bem simples
 
